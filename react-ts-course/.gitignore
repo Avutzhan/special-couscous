@@ -1,5 +1,11 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 /react-ts-course/node_modules
+/react-ts-course/.idea/*
+/react-ts-course/.idea
+/.idea/*
+.idea
+.idea/*
+
 # dependencies
 /node_modules
 /.pnp
